@@ -1,0 +1,78 @@
+[
+  {
+    "name": "Frères Berthom",
+    "owner":{
+      "firstName": "Nicolas",
+      "lastName": "Hodicq",
+      "mail": "nhodicq@bewizyu.com"
+    },
+    "openDays":[
+      "Tuesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "openHours":{
+        "start": 10,
+        "end": 1
+    },
+    "beers":[
+      {
+        "type": "Aigre-douce",
+        "name": "Faro"
+      }
+    ]
+  },
+  {
+    "name":"Café du commerce",
+    "owner":{
+      "firstName": "Paul",
+      "lastName": "Bismuth",
+      "mail": "pbismuth@accorhotel.com"
+    },
+    "openDays":[
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "openHours":{
+      "start":10,
+      "end":1
+    },
+    "beers":[
+      {
+        "type":"Amer",
+        "name":"La justice"
+      }
+    ]
+  },
+  {
+    "name":"Le premier de cordée",
+    "owner":{
+      "firstName": "Emmanuel",
+      "lastName": "Macron",
+      "mail": "manu@blindos.com"
+    },
+    "openDays":[
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "openHours":{
+      "start":10,
+      "end":11
+    },
+    "beers":[
+      {
+        "type":"Blonde",
+        "name":"La brigitte"
+      }
+    ]
+  }
+]
